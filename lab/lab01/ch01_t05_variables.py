@@ -1,1 +1,1 @@
-today_date
+todays_date = 1
