@@ -1,1 +1,1 @@
-product = 
+product = 25 * 4 # 
