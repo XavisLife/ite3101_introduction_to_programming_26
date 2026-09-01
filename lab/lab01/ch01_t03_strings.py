@@ -1,1 +1,2 @@
-print("Hello" + "Xavier") # Addition of strings connect two string variables together.
+# Addition of strings connect two string variables together.
+print("Hello" + "Xavier")
