@@ -1,3 +1,3 @@
-haiku = '''The old pont,
+haiku = '''The old pond,
 A frog jumps in:
 Plop!'''
