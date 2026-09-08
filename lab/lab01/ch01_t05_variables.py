@@ -3,4 +3,4 @@
 # todays_date = "08/09/2026"
 
 from datetime import datetime
-todays_date = "%s/%"
+todays_date = "%s/%s/"
