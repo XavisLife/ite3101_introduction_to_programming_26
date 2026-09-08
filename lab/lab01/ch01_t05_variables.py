@@ -4,4 +4,4 @@
 
 from datetime import datetime
 now = datetime.now()
-todays_date = "%02d/%02d/%04d" %(now.date, now.month, now.year)
+todays_date = "%02d/%02d/%04d" % (now.day, now.month, now.year)
