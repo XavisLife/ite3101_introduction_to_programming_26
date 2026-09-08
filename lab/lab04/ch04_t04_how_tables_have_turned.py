@@ -13,4 +13,4 @@ bool_three = 20 != 19
 bool_four = 20 > 40
 
 # Make me true!
-bool_five = 20 <= 
+bool_five = 20 <= 20
