@@ -3,4 +3,4 @@ def cube(number):
 
 
 def by_three(number):
-    if (number)
+    if (number%3) == 0
