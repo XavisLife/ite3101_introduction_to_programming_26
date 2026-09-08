@@ -13,4 +13,5 @@ november_rainfall = 5.06
 december_rainfall = 4.06
 
 # It adds the remaining 4 months rainfall to the annual_rainfall
-annual_rainfall += september_rainfall + october_rainfall + november_rainfall + december_rainfall
+annual_rainfall += september_rainfall + \
+    october_rainfall + november_rainfall + december_rainfall
