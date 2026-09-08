@@ -1,2 +1,3 @@
 def distance_from_zero(number)
-    if 
+    if type(number) == int or float:
+        return
