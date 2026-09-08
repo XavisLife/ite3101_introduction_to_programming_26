@@ -10,7 +10,7 @@ bool_two = (130 != 120) or "Testing" == "Testing "
 bool_three = (200283 == 2) and "HKIIT" == "HKIIT"
 
 # Make me true!
-bool_four = (104 <= 104) and not "This" != "That"
+bool_four = (104 <= 104) and not "This" != "This"
 
 # Make me true!
-bool_five = None
+bool_five = True
