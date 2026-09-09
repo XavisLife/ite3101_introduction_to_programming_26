@@ -1,4 +1,4 @@
 lloyd = {
-    "name",
-    
+    "name": "L",
+
 }
