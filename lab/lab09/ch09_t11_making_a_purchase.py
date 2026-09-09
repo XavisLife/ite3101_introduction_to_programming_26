@@ -15,5 +15,4 @@ prices = {
 }
 
 # Write your code below!
-def compute_bill(food: int) -> int:
-    
+def compute_bill(food: string) -> int:
