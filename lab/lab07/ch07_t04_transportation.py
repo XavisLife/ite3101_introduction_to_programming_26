@@ -14,6 +14,7 @@ def plane_ride_cost(city: str) -> int:
 
 def rental_car_cost(days: int) -> int:
     costPerDay = 40
+    total = 40 * days
     if days >= 7:
         total -= 50
     elif days >= 3:
