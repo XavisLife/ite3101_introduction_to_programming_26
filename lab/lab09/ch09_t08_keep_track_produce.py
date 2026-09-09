@@ -11,4 +11,4 @@ stock = {
     "pear": 15,
 }
 
-print(prices.ke)
+print(prices.keys)
