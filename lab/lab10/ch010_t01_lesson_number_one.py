@@ -4,3 +4,5 @@ lloyd = {
     "quizzes": [],
     "tests": []
 }
+
+alice = {
