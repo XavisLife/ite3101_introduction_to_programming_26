@@ -12,4 +12,4 @@ stock = {
 }
 
 for price in prices:
-    print("Once: %s" % once[key]) 
+    print("%s" % once[key]) 
