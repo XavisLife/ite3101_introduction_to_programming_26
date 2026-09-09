@@ -32,5 +32,4 @@ def compute_bill(food: List[str]) -> float:
     return total
 
 
-totalCost = 0
-print(totalCost)
+print(compute_bill())
