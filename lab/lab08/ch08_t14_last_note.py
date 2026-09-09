@@ -3,7 +3,7 @@ inventory = {
     # Assigned a new list to 'pouch' key
     'pouch': ['flint', 'twine', 'gemstone'],
     'backpack': ['xylophone', 'dagger', 'bedroll', 'bread loaf']
-    'pocket': ['seashell', 'strange berry', and 'lint']
+    'pocket': ['seashell', 'strange berry', 'lint']
 }
 
 # Adding a key 'burlap bag' and assigning a list to it
