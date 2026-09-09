@@ -12,4 +12,4 @@ stock = {
 }
 
 for key in prices:
-    print("%s/n" + "Price: %s/n" + "% prices[key], ) 
+    print("%s/n" + "price: %s/n" + "% prices[key], ) 
