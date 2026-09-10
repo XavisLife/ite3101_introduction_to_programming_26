@@ -6,4 +6,4 @@ def censor(text: str, word: str) -> str:
         if words[i] == word:
             words[i] = asterisks
 
-    return " ".join(words)
+    return "".join(words)
