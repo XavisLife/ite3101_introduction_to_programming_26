@@ -7,6 +7,6 @@ score = {"a": 1, "c": 3, "b": 3, "e": 1, "d": 2, "g": 2,
 
 def scrabble_score(word: str) -> int:
     total = 0
-    for letter in word.lower():
-        total += score[letter]
+    for character in word.lower():
+        total += score[character]
     return total
