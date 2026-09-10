@@ -29,7 +29,7 @@ print(ship_col)
 # Everything from here on should be in your for loop
 # don't forget to properly indent!
 for turn in range(4):
-    # print("Turn", turn + 1)
+    print("Turn", turn + 1)
     guess_row = int(input("Guess Row: "))
     guess_col = int(input("Guess Col: "))
 
