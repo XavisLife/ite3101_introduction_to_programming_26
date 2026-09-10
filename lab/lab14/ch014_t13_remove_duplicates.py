@@ -1,1 +1,2 @@
-def remove_duplicates(numbers: list[int])
+def remove_duplicates(numbers: list[int]) -> list[int]:
+    
