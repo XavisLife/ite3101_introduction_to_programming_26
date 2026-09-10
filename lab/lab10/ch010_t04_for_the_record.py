@@ -17,3 +17,6 @@ tyler = {
     "tests": [100.0, 100.0]
 }
 students = [lloyd, alice, tyler]
+
+for student in students:
+    print(student)
