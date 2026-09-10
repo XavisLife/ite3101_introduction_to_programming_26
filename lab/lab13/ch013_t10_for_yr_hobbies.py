@@ -1,3 +1,3 @@
 hobbies = []
-for len(hobbies) <
+for len(hobbies) 
 # Add your code below!
