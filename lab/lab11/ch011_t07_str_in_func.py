@@ -1,6 +1,7 @@
 n = "Hello"
 # Your function here!
-def string_function (s: string) -> string:
-    
 
-# print(string_function(n))
+
+def string_function(s: str) -> str:
+
+    # print(string_function(n))
