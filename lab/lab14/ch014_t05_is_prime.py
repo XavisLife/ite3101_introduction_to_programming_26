@@ -4,4 +4,3 @@ def is_prime(x):
             return False
         else:
             return True
-    return True
