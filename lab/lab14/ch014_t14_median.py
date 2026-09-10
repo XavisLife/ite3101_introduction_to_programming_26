@@ -1,2 +1,2 @@
 def median(numbers: list[int]) -> float:
-    sorted
+    sorted_list = sorted
