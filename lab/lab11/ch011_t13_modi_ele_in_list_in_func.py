@@ -6,5 +6,7 @@ def double_list(x):
         x[i] = x[i] * 2
     return x
 
+
+# problematic.. Didn't the requirement mentioned return with the exist list instead of new list?
 double_list(n)
-print(n)
+print(double_list(n))
