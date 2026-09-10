@@ -1,3 +1,3 @@
 def reverse(text):
     reversed_text = ""
-    for i in range()
+    for i in range(Len(text))
