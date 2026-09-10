@@ -1,6 +1,7 @@
 # Conversion version
 def digit_sum(n):
-
+    total = 0
+    for
 
 # Challenging version
 def digit_sum(n):
