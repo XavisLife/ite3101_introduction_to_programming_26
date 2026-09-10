@@ -47,4 +47,4 @@ for turn in range(4):
         if turn == 3:
             print("Game Over")
             break
-        print_board(board)
+        # print_board(board)
