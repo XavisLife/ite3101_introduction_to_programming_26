@@ -4,4 +4,4 @@ hobbies = []
 for hobby in hobbies:
     if (len(hobbies)) <= 3:
         hobby = (input("What is your hobby?"))
-        
+        hobbies.append(hobby)
