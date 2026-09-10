@@ -26,4 +26,5 @@ def average(numbers: List[float]) -> float:
 
 # Add your function below!
 def average(student):
-    homework = average()
+    homework = average(student["homework"])
+    
