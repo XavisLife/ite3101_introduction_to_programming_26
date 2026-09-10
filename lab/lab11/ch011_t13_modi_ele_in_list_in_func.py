@@ -7,8 +7,8 @@ n = [3, 5, 7]
 def double_list(x: List[int]) -> List[int]:
     y = [int]
     for i in range(0, len(x)):
-        x[i] = x[i] * 2
-    return x
+        y[i] = x[i] * 2
+    return y
 # Don't forget to return your new list!
 
 
