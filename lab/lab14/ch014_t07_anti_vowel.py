@@ -1,6 +1,6 @@
 def anti_vowel(text):
     vowels = "aeiou"
     for character in text:
-        if character.Lower() in vowels:
+        if character.lower() in vowels:
             text = text.replace(character, "")
     return text
