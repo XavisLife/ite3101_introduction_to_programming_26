@@ -1,2 +1,2 @@
 def purify(numbers: list) -> list:
-    return 
+    return [number for number in numbers if number]
