@@ -1,9 +1,15 @@
 # Conversion version
+'''
 def digit_sum(n):
     total = 0
-    for
+    for digit in str(n):
+        total += int(digit)
+    return total
+'''
 
 # Challenging version
+
+
 def digit_sum(n):
     if n < 10:
         return n
