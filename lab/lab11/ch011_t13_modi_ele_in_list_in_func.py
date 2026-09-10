@@ -7,4 +7,12 @@ def double_list(x):
     return x
 """"
 
+
+def double_list(x):
+    new_list = []
+    for item in x:
+        new_list.append(item * 2)
+    return new_list
+
+
 print(double_list(n))
