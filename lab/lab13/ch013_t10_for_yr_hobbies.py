@@ -1,3 +1,3 @@
 hobbies = []
-for hobbie
+for hobbies
 # Add your code below!
