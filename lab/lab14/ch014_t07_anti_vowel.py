@@ -3,4 +3,4 @@ def anti_vowel(text):
     for character in text:
         if character.Lower() in vowels:
             text = text.replace(character, "")
-    return ''.join
+    return text
