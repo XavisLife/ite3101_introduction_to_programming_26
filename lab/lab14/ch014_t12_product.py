@@ -1,2 +1,3 @@
 def product (numbers: list[int]) -> int:
-    total = 
+    total = 0
+    
