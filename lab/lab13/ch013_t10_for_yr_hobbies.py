@@ -1,7 +1,7 @@
 hobbies = []
 
 # Add your code below!
-for hobby in hobbies:
+for i in range(3):
     hobby = (input("What is your hobby?"))
     x += 1
     if (x > 3):
