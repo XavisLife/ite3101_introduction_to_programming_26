@@ -26,5 +26,5 @@ ship_col = random_col(board)
 
 print(ship_row)
 guess_row = int(input("Guess Row: "))
-
+print(ship_col)
 guess_col = int(input("Guess Col: "))
