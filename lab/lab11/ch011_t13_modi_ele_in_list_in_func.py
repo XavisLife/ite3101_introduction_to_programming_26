@@ -11,7 +11,7 @@ def double_list(x):
 def double_list(x):
     new_list = []
     for item in x:
-        new_list.append(item * 2)
+        new_list.append(item * 4)
     return new_list
 
 
