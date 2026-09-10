@@ -5,7 +5,7 @@ for x in hobbies:
     hobby = (input("What is your hobby?"))
     hobbies.append(hobby)
     x += 1
-    else:
+    if (x >):
         break
 
 print(hobbies)
