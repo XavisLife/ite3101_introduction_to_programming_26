@@ -7,3 +7,5 @@ for x in hobbies:
         hobbies.append(hobby)
     else:
         break
+
+print(hobbies)
