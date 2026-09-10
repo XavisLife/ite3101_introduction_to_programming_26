@@ -1,2 +1,5 @@
 def is_int(x):
-    if x.is
+    if x.is_integer():
+        return True
+    else:
+        return False
