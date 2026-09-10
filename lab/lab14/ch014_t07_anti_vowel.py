@@ -1,4 +1,4 @@
 def anti_vowel(text):
     vowels = "aeiou"
-    if ()
+    if (text)
     return ''.join
