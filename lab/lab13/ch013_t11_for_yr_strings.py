@@ -7,4 +7,4 @@ word = "eggs!"
 
 # Your code here!
 for character in word:
-    
+    print(character)
