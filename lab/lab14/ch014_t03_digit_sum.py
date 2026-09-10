@@ -1,3 +1,8 @@
+# Conversion version
+def digit_sum(n):
+
+
+# Challenging version
 def digit_sum(n):
     if n < 10:
         return n
