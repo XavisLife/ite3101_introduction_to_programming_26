@@ -6,4 +6,4 @@ for hobby in hobbies:
         hobby = (input("What is your hobby?"))
         hobbies.append(hobby)
     else:
-        
+        break
