@@ -1,7 +1,7 @@
 hobbies = []
 
 # Add your code below!
-for (len(hobbies)) <= 3:
+for hobby in hobbies:
     if (len(hobbies)) <= 3:
         hobby = (input("What is your hobby?"))
         hobbies.append(hobby)
