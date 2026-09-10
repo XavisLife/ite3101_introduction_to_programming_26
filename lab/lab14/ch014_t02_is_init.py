@@ -1,2 +1,5 @@
 def is_int(x):
-    if
+    if isinstance(x, int):
+        return True
+    else:
+        return False
