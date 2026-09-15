@@ -8,5 +8,4 @@ def grades_sum(scores: list) -> int:
     return total
 
 
-grades_sum(grades)
-
+print(grades_sum(grades))
