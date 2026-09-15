@@ -5,7 +5,7 @@ def grades_sum(scores: list) -> int:
     total = 0
     for score in scores:
         total += score
-    return sum
+    return total
 
 
 grades_sum(grades)
