@@ -1,1 +1,2 @@
-def check_bit4(input: int)
+def check_bit4(input: int) -> str:
+    
