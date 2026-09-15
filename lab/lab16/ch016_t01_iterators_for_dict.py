@@ -1,7 +1,7 @@
 my_dict = {
     'Name': 'Peter',
     'Age': 18,
-    'BDFL', True
+    'BDFL': True
 }
 
 print(my_dict.items())
