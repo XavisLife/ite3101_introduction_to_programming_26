@@ -1,7 +1,7 @@
 one = 0b1
 two = 0b10
 three = 0b11
-four = 0b1
+four = 0b100
 five = None
 six = None
 seven = None
