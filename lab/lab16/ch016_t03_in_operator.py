@@ -5,4 +5,5 @@ my_dict = {
 }
 
 for key in my_dict:
-    print(key, " "
+    print(key, " ")
+    print(my_dict[key])
