@@ -1,3 +1,5 @@
 my_dict = {
-    'Name'
+    'Name': 'Peter',
+    'Age': 18,
+    'BDFL', True
 }
