@@ -1,1 +1,1 @@
-cubes_by_four = []
+cubes_by_four = [x ** 3 for x in range(1, 10) if ]
