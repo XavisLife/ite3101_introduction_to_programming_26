@@ -5,4 +5,4 @@ Finally, print your message to the console.
 '''
 garbled = "IXXX aXXmX aXXXnXoXXXXXtXhXeXXXXrX sXXXXeXcXXXrXeXt mXXeXsXXXsXaXXXXXXgXeX!XX"
 message = list(filter(lambda x: x != "X", garbled))
-print(message)
+print("".join(message))
