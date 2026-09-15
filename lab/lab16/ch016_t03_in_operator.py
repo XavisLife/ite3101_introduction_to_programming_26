@@ -4,6 +4,7 @@ my_dict = {
     "BDFL": True
 }
 
-for 
+for key in my_dict:
+    
 print(my_dict.keys())
 print(my_dict.values())
