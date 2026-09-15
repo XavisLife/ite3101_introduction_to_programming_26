@@ -4,5 +4,5 @@ Set it to the result of calling filter() with the appropriate lambda that wi
 Finally, print your message to the console.
 '''
 garbled = "IXXX aXXmX aXXXnXoXXXXXtXhXeXXXXrX sXXXXeXcXXXrXeXt mXXeXsXXXsXaXXXXXXgXeX!XX"
-message = list(filter(lambda x: x != "X", garbled))
-print("".join(message))
+message = "".join(filter(lambda x: x != "X", garbled))
+print(message)
