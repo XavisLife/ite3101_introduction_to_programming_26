@@ -18,3 +18,4 @@ def grades_average(grades_input: list) -> float:
     return grades_sum(grades_input) / float(len(grades_input))
 
 print(grades_sum(grades))
+
