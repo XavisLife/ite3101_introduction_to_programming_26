@@ -4,3 +4,4 @@ my_dict = {
     "BDFL": True
 }
 print(my_dict.keys())
+print(my_dict.values())
