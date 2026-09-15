@@ -9,4 +9,4 @@ eight = 0b1000
 nine = 0b1001
 ten = 0b1010
 eleven = 0b1011
-twelve = 0b11
+twelve = 0b1100
