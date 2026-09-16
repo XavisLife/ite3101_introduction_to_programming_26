@@ -22,3 +22,4 @@ class ElectricCar(Car):
         self.condition = "like new"
 
 my_car = ElectricCar("DeLorean", "silver", 88, "molten salt")
+my_car.condition

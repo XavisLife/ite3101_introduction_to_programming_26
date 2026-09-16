@@ -16,11 +16,8 @@ class Car(object):
 
 class ElectricCar(Car):
     def __init__(self, battery_type, model, color, mpg):
-        self.condition = "new"
         self.battery_type = battery_type
-        self.model = model
-        self.color = color
-        self.mpg = mpg
+        super().__init__(model, color, mpg)
 
 
 my_car = ElectricCar("molten salt", "DeLorean", "silver", 88)
