@@ -17,3 +17,5 @@ hippo.description()
 
 sloth = Animal("Sam", 5)
 ocelot = Animal("David", 12)
+
+print(hippo.nam)
