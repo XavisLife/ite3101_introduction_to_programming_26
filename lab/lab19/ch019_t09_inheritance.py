@@ -19,3 +19,4 @@ class ElectricCar(Car):
         self.model = model
         self.color = color
         self.mpg = mpg
+
