@@ -14,7 +14,7 @@ class Equilabteral(Triangle):
     angle = 60
 
     def __init__(self):
-        supper().__init__(self.angle, self.angle, self.angle)
+        super().__init__(self.angle, self.angle, self.angle)
 
 
 my_triangle = Triangle(90, 30, 60)
