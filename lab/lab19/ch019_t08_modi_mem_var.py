@@ -14,4 +14,3 @@ class Car(object):
         self.condition = "used"
 
 my_car = Car("DeLorean", "silver", 88)
-my_car.display_car()
