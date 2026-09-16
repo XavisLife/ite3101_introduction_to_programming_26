@@ -7,4 +7,5 @@ class Shape(object):
 # Add your Triangle class below!
 class Triangle(Shape):
     def __init__(self, side1, side2, side3):
-        
+        self.side = side1
+        se
