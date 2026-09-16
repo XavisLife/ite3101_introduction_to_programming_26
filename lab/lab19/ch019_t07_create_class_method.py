@@ -8,7 +8,7 @@ class Car(object):
 
     def display_car(self):
         mpg_string = str(self.mpg))
-        return f"This is a {self.color} {self.model} with {self.mpg} MPG."
+        return f"This is a {self.color} {self.model} with {mpg_string} MPG."
 
 my_car = Car("DeLorean", "silver", 88)
 
