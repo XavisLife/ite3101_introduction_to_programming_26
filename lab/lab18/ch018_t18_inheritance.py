@@ -10,7 +10,7 @@ class Triangle(object):
         return self.angle1 + self.angle2 + self.angle3 == 180
 
 
-class Equilabteral(Triangle):
+class Equilateral(Triangle):
     angle = 60
 
     def __init__(self):
