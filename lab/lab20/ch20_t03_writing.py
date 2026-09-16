@@ -8,3 +8,4 @@ my_file = open(file_path_name, "w")
 # Add your code below!
 for i in my_list:
     my_file.write(str(i) + "\n")
+    
