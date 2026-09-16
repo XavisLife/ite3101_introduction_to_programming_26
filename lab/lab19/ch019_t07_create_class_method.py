@@ -12,4 +12,4 @@ class Car(object):
 
 my_car = Car("DeLorean", "silver", 88)
 
-print(my_car.display_car)
+print(my_car.display_car())
