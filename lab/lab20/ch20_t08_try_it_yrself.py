@@ -3,4 +3,4 @@ file_path_name = os.path.join(os.path.dirname(
     os.path.abspath(__file__)), "outputs/ch20_t08o_output.txt")
 
 with open(file_path_name, "w") as my_file:
-    textfile.write("Success!")
+    my_file.write("Success!")
