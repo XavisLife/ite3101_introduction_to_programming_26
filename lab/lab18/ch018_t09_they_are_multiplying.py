@@ -13,7 +13,6 @@ class Animal(object):
 
 
 hippo = Animal("Peter", 10)
-hippo.description()
 
 sloth = Animal("Sam", 5)
 ocelot = Animal("David", 12)
