@@ -7,7 +7,7 @@ class Car(object):
         self.mpg = mpg
 
     def display_car(self):
-        
+        return 
 
 my_car = Car("DeLorean", "silver", 88)
 
