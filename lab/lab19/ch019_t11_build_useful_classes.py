@@ -4,4 +4,4 @@ class Point3D(object):
         self.y = y
         self.z = z
     def __repr__(self):
-        return ""
+        return "(%d, %d, %d)" % (self.x, self.y, self.z)
