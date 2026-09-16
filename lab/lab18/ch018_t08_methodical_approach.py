@@ -10,4 +10,5 @@ class Animal(object):
         print(self.name)
         print(self.age)
 
-hippo = Animal
+hippo = Animal("Hippo", 6)
+hippo.description
