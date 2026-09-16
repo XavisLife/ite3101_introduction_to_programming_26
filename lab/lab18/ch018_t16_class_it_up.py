@@ -7,6 +7,6 @@ class Triangle(object):
         self.angle3 = angle3
 
     def check_angles(self):
-        if (angle1 == 180 or angle2 == 180 or angle3 == 180):
+        if (self.angle1 == 180 or self.angle2 == 180 or self.angle3 == 180):
             return True
         return False
