@@ -22,4 +22,5 @@ class ShoppingCart(object):
         else:
             print(product + " is not in the cart.")
 
-my_cart = S
+my_cart = ShoppingCart("John Snow")
+my_cart.add_item("")
