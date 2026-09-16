@@ -6,6 +6,7 @@ class Animal(object):
         self.name = name
         self.age = age
     # Add your method here!
-    def description():
+    def description(self, name, age):
         print(self.name)
         print(self.age)
+
