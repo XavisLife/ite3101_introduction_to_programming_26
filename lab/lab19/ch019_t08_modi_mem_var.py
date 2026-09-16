@@ -11,7 +11,7 @@ class Car(object):
               (self.color, self.model, str(self.mpg)))
 
     def drive_car(self):
-        
+        self.condition = "used"
 
 my_car = Car("DeLorean", "silver", 88)
 my_car.display_car()
