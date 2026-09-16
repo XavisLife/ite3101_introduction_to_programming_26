@@ -16,4 +16,4 @@ hippo = Animal("Peter", 10)
 hippo.description()
 
 sloth = Animal("Sam", 5)
-ocet
+ocelot = Animal("David", 12)
