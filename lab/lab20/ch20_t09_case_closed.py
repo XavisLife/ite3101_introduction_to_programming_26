@@ -8,4 +8,4 @@ with open(file_path_name, "w") as my_file:
 if my_file.closed == False:
     my_file.close()
 
-print
+print(my_file.closed)
