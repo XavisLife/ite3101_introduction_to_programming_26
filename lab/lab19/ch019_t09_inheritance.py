@@ -13,6 +13,7 @@ class Car(object):
     def drive_car(self):
         self.condition = "used"
 
+
 class ElectricCar(Car):
     def __init__(self, battery_type, model, color, mpg):
         self.battery_type = battery_type
@@ -20,4 +21,5 @@ class ElectricCar(Car):
         self.color = color
         self.mpg = mpg
 
-my_car = ElectricCar("molten salt", "LX540", )
+
+my_car = ElectricCar("molten salt", "LX540", "blue", 88)
