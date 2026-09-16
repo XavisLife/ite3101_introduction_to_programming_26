@@ -1,1 +1,2 @@
-class Car()
+class Car(object):
+    pass
