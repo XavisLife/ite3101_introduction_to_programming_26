@@ -13,7 +13,8 @@ class Car(object):
     def drive_car(self):
         self.condition = "used"
 
+
 my_car = Car("DeLorean", "silver", 88)
 print(my_car.condition)
 my_car.drive_car()
-print()
+print(my_car.condition)
